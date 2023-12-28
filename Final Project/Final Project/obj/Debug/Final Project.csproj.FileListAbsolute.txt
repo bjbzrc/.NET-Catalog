@@ -1,0 +1,16 @@
+C:\Users\brando\Desktop\SP23\IT 4400\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\brando\Desktop\SP23\IT 4400\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\brando\Desktop\SP23\IT 4400\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\brando\Desktop\SP23\IT 4400\Final Project\Final Project\obj\Debug\Final Project.csproj.AssemblyReference.cache
+C:\Users\brando\Desktop\SP23\IT 4400\Final Project\Final Project\obj\Debug\Final Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\brando\Desktop\SP23\IT 4400\Final Project\Final Project\obj\Debug\MainWindow.g.cs
+C:\Users\brando\Desktop\SP23\IT 4400\Final Project\Final Project\obj\Debug\App.g.cs
+C:\Users\brando\Desktop\SP23\IT 4400\Final Project\Final Project\obj\Debug\Final Project_MarkupCompile.cache
+C:\Users\brando\Desktop\SP23\IT 4400\Final Project\Final Project\obj\Debug\Final Project_MarkupCompile.lref
+C:\Users\brando\Desktop\SP23\IT 4400\Final Project\Final Project\obj\Debug\MainWindow.baml
+C:\Users\brando\Desktop\SP23\IT 4400\Final Project\Final Project\obj\Debug\Final Project.g.resources
+C:\Users\brando\Desktop\SP23\IT 4400\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\brando\Desktop\SP23\IT 4400\Final Project\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+C:\Users\brando\Desktop\SP23\IT 4400\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\brando\Desktop\SP23\IT 4400\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\brando\Desktop\SP23\IT 4400\Final Project\Final Project\obj\Debug\Final Project.pdb
