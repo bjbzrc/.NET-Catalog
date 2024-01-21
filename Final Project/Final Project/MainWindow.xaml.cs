@@ -288,32 +288,6 @@ namespace Book_Catalog
                     e.Cancel = true;
                 }
             }
-
-            // Below is the same code from the Exit_Click event handler. Ideally you would 
-            // extract this code into a method and use it in both Exit_Click and 
-            // this event handler, but with the way the 'Closing' event works hitting 'cancel'
-            // would just exit the program anyway, so you have to utilise the CancelEventArgs parameter
-            // and set it to 'true'
-
-            //if (unsavedChanges)
-            //{
-            //    MessageBoxResult result = MessageBox.Show("There are unsaved changes. Do you want to save the catalog before exiting?",
-            //                                               "Warning", MessageBoxButton.YesNoCancel, MessageBoxImage.Warning);
-            //    if (result == MessageBoxResult.Yes)
-            //    {
-            //        SaveCatalog();
-            //    }
-            //    if (result == MessageBoxResult.No)
-            //    {
-            //        Application.Current.Shutdown();
-            //    }
-            //    else
-            //    {
-            //        return;
-            //    }
-            //}
-
-            //Application.Current.Shutdown();
         }
     }
 }
